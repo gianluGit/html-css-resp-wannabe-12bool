@@ -1,0 +1,35 @@
+/* regole generali di pagina */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*  */
+
+/* regole comuni di pagina */
+img {
+  height: 200px;
+  margin-top: 20px;
+}
+
+#prima-riga, #seconda-riga, #terza-riga {
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 30px;
+}
+
+#prima-riga p, #seconda-riga p, #terza-riga p {
+  padding: 20px 0;
+}
+/*  */
+
+
+#terza-riga img {
+  background-color: #428bca;
+  border-radius: 50%;
+}
+
+
+.grey {
+  background-color: #f9f9f9;
+}
